@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://geetapogul.github.io/csb-foru5t/static/css/main.491e01ee.chunk.css",
-    "main.js": "https://geetapogul.github.io/csb-foru5t/static/js/main.018c1f84.chunk.js",
-    "main.js.map": "https://geetapogul.github.io/csb-foru5t/static/js/main.018c1f84.chunk.js.map",
+    "main.js": "https://geetapogul.github.io/csb-foru5t/static/js/main.b4430d59.chunk.js",
+    "main.js.map": "https://geetapogul.github.io/csb-foru5t/static/js/main.b4430d59.chunk.js.map",
     "runtime-main.js": "https://geetapogul.github.io/csb-foru5t/static/js/runtime-main.2413baf4.js",
     "runtime-main.js.map": "https://geetapogul.github.io/csb-foru5t/static/js/runtime-main.2413baf4.js.map",
     "static/js/2.cc3652f2.chunk.js": "https://geetapogul.github.io/csb-foru5t/static/js/2.cc3652f2.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.2413baf4.js",
     "static/js/2.cc3652f2.chunk.js",
     "static/css/main.491e01ee.chunk.css",
-    "static/js/main.018c1f84.chunk.js"
+    "static/js/main.b4430d59.chunk.js"
   ]
 }
